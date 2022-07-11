@@ -8,4 +8,6 @@ I am a fullstack software engineer
 
 <br>
 
-### Connect with me
+
+### :hammer_and_wrench: Languages and Tools :
+
