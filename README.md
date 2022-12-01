@@ -13,4 +13,7 @@ I am a fullstack software engineer
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sindiga-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zakah)](https://github.com/anuraghazra/github-readme-stats)
+
+- uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
