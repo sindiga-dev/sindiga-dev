@@ -32,16 +32,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sindiga-dev&" alt="sindiga-dev" /></p>
 
 
-<!--START_SECTION:waka-->
 
-```text
-Ruby         7 hrs 34 mins   ████████████████████░░░░░   79.47 %
-JavaScript   1 hr 23 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.52 %
-JSON         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
-HTML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-CSS          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-Git          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
-```
-
-<!--END_SECTION:waka-->
 
