@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sindiga-dev" alt="sindiga-dev" /></a> </p>
 
-- 🔭 I’m currently working on **Learning rails**
+- 🔭 I’m currently working on **Laravel**
 
-- 🌱 I’m currently learning **React js, Ruby, rails, Java**
+- 🌱 I’m currently learning **React js, Ruby, rails, Laravel**
 
 - 👯 I’m looking to collaborate on **Backend projects**
 
-- 💬 Ask me about **react, rails , java**
+- 💬 Ask me about **react, rails , laravel**
 
 - 📫 How to reach me **is.sindiga@gmail.com**
 
