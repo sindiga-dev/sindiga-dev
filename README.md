@@ -1,10 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Isaac</h1>
-<h3 align="center">A passionate dev</h3>
+<h3 align="center">A Dynamics 365 Business Central Technical Consultant</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sindiga-dev&label=Profile%20views&color=0e75b6&style=flat" alt="sindiga-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sindiga-dev" alt="sindiga-dev" /></a> </p>
 
 - 🔭 I’m currently working on **AL Programing**
 
